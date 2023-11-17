@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://earstrive.github.io/blog</id>
+    <title>欢迎来到我的主页 Blog</title>
+    <updated>2023-10-02T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://earstrive.github.io/blog"/>
+    <subtitle>欢迎来到我的主页 Blog</subtitle>
+    <icon>https://earstrive.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[生病了]]></title>
+        <id>https://earstrive.github.io/blog/fever</id>
+        <link href="https://earstrive.github.io/blog/fever"/>
+        <updated>2023-10-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今天烧到了38度，好难受！！！]]></summary>
+        <content type="html"><![CDATA[<p>今天烧到了38度，好难受！！！
+看来接下来几天都要在床上呆着了</p>]]></content>
+        <author>
+            <name>Jiangjunwen</name>
+            <uri>https://github.com/earstrive</uri>
+        </author>
+        <category label="感想" term="感想"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国庆节快乐]]></title>
+        <id>https://earstrive.github.io/blog/national-day</id>
+        <link href="https://earstrive.github.io/blog/national-day"/>
+        <updated>2023-10-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[国庆节快乐]]></summary>
+        <content type="html"><![CDATA[<p>国庆节快乐</p>]]></content>
+        <author>
+            <name>Jiangjunwen</name>
+            <uri>https://github.com/earstrive</uri>
+        </author>
+        <category label="感想" term="感想"/>
+        <category label="节日" term="节日"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中秋节快乐]]></title>
+        <id>https://earstrive.github.io/blog/mid-autumn-festival</id>
+        <link href="https://earstrive.github.io/blog/mid-autumn-festival"/>
+        <updated>2023-09-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[中秋节快乐,今天的月亮好大呀!!!!]]></summary>
+        <content type="html"><![CDATA[<p>中秋节快乐,今天的月亮好大呀!!!!</p><p><img loading="lazy" alt="Docusaurus Plushie" src="/assets/images/moon-d7a90a2e88ca19cc0059770439257773.jpg" width="937" height="603" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Jiangjunwen</name>
+            <uri>https://github.com/earstrive</uri>
+        </author>
+        <category label="感想" term="感想"/>
+        <category label="节日" term="节日"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[个人博客的创建]]></title>
+        <id>https://earstrive.github.io/blog/start-a-blog</id>
+        <link href="https://earstrive.github.io/blog/start-a-blog"/>
+        <updated>2023-09-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[跟着超哥学完Git后,它给我们讲了个好东西,就是Docusaurus,这玩意可以快速帮助我们构建一个网站,我就用它来做了个个人博客,目前博客还在开发中,尽情期待]]></summary>
+        <content type="html"><![CDATA[<p>跟着超哥学完Git后,它给我们讲了个好东西,就是Docusaurus,这玩意可以快速帮助我们构建一个网站,我就用它来做了个个人博客,目前博客还在开发中,尽情期待</p>]]></content>
+        <author>
+            <name>Jiangjunwen</name>
+            <uri>https://github.com/earstrive</uri>
+        </author>
+        <category label="感想" term="感想"/>
+    </entry>
+</feed>

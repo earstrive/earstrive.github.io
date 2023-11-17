@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>欢迎来到我的主页 Blog</title>
+        <link>https://earstrive.github.io/blog</link>
+        <description>欢迎来到我的主页 Blog</description>
+        <lastBuildDate>Mon, 02 Oct 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh</language>
+        <item>
+            <title><![CDATA[生病了]]></title>
+            <link>https://earstrive.github.io/blog/fever</link>
+            <guid>https://earstrive.github.io/blog/fever</guid>
+            <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[今天烧到了38度，好难受！！！]]></description>
+            <content:encoded><![CDATA[<p>今天烧到了38度，好难受！！！
+看来接下来几天都要在床上呆着了</p>]]></content:encoded>
+            <category>感想</category>
+        </item>
+        <item>
+            <title><![CDATA[国庆节快乐]]></title>
+            <link>https://earstrive.github.io/blog/national-day</link>
+            <guid>https://earstrive.github.io/blog/national-day</guid>
+            <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[国庆节快乐]]></description>
+            <content:encoded><![CDATA[<p>国庆节快乐</p>]]></content:encoded>
+            <category>感想</category>
+            <category>节日</category>
+        </item>
+        <item>
+            <title><![CDATA[中秋节快乐]]></title>
+            <link>https://earstrive.github.io/blog/mid-autumn-festival</link>
+            <guid>https://earstrive.github.io/blog/mid-autumn-festival</guid>
+            <pubDate>Fri, 29 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[中秋节快乐,今天的月亮好大呀!!!!]]></description>
+            <content:encoded><![CDATA[<p>中秋节快乐,今天的月亮好大呀!!!!</p><p><img loading="lazy" alt="Docusaurus Plushie" src="/assets/images/moon-d7a90a2e88ca19cc0059770439257773.jpg" width="937" height="603" class="img_ev3q"></p>]]></content:encoded>
+            <category>感想</category>
+            <category>节日</category>
+        </item>
+        <item>
+            <title><![CDATA[个人博客的创建]]></title>
+            <link>https://earstrive.github.io/blog/start-a-blog</link>
+            <guid>https://earstrive.github.io/blog/start-a-blog</guid>
+            <pubDate>Thu, 28 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[跟着超哥学完Git后,它给我们讲了个好东西,就是Docusaurus,这玩意可以快速帮助我们构建一个网站,我就用它来做了个个人博客,目前博客还在开发中,尽情期待]]></description>
+            <content:encoded><![CDATA[<p>跟着超哥学完Git后,它给我们讲了个好东西,就是Docusaurus,这玩意可以快速帮助我们构建一个网站,我就用它来做了个个人博客,目前博客还在开发中,尽情期待</p>]]></content:encoded>
+            <category>感想</category>
+        </item>
+    </channel>
+</rss>
